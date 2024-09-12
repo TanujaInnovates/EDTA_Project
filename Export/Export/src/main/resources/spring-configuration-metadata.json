@@ -1,0 +1,12 @@
+{
+  "properties": [
+    {
+      "name": "file.upload-dir",
+      "type": "java.lang.String",
+      "description": "The directory where uploaded files will be stored.",
+      "defaultValue": "/tmp/uploads",
+      "sourceType": "com.example.Export.Service.FileService"
+    }
+  ],
+  "hints": []
+}
